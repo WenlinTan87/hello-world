@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi this is my first trial, hope it goes well!
